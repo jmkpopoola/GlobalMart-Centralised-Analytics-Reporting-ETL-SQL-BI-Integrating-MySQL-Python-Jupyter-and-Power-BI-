@@ -27,7 +27,7 @@ To provide full-stack exposure across ETL → SQL → BI, applicable for roles i
 - Enforced foreign key relationships for referential integrity.
 - Inserted cleaned data into MySQL using Python’s `mysql-connector` module.
 
-![Database Schema](images/image2.jpeg)
+![Database Schema](GlobalmartSchema.jpg)
 
 ### 3. Data Modeling & Visualization (Power BI)
 - Connected Power BI to MySQL for live querying.
