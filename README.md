@@ -3,7 +3,8 @@
 ## Overview
 GlobalMart, a multinational retail company operating in the UK, Germany, and the US, faced challenges with fragmented sales data across CSV files, cloud storage, and multiple formats. The GlobalMart Sales Intelligence System is a centralized, interactive business intelligence (BI) solution that integrates dispersed datasets into a relational MySQL database, automates data pipelines with Python, and delivers dynamic dashboards via Power BI for real-time tracking of sales metrics (revenue, quantity, profit).
 
-![GlobalMart Overview](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/02aad21d-85a5-43fb-a7b0-57c0511880d9" />)
+![GlobalMart Overview](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4f01cd1e-594d-46c3-805a-1f39e0bff8ee" />
+)
 
 ## Aim
 To provide full-stack exposure across ETL → SQL → BI, applicable for roles in business intelligence, data analytics, and data engineering.
